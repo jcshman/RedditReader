@@ -1,0 +1,19 @@
+<resources>
+    <string name="application_title">Reddit Reader</string>
+    <string name="subscribe_title">Follow</string>
+    <string name="subscribe_message">Enter name of subreddit</string>
+    <string name="positive_label">OK</string>
+    <string name="view_in_browser_description">View in Browser</string>
+    <string name="refresh">Refresh</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="subreddit_prefix">r/</string>
+
+    <string name="subscribe_name_A">science</string>
+    <string name="subscribe_title_A">Science</string>
+    <string name="subscribe_name_B">sports</string>
+    <string name="subscribe_title_B">the sportspage of the Internet</string>
+    <string name="subscribe_name_C">mildlyinteresting</string>
+    <string name="subscribe_title_C">For photos that are, you know, mildly interesting.</string>
+
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+</resources>

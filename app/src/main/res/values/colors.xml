@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="indigo_300">#7986CB</color>
+    <color name="indigo_500">#3F51B5</color>
+    <color name="indigo_700">#303F9F</color>
+    <color name="pink_a200">#FF4081</color>
+
+    <color name="windowBackground">#212121</color>
+    <color name="commentBackground">#616161</color>
+    <color name="imageBackground">#424242</color>
+    <color name="white">#ffffff</color>
+</resources>
